@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.719049
+#+DATE: 2015-08-30 20:51:38.080013
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_054-0642b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 54
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第五十四¶
+《阿毘達磨順正理論》卷第五十四¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-10十
-:PROPERTIES:
-:head: 辯隨眠品第五之十
-:END:
-¶
+辯隨眠品第五之十¶
 
 如是已辯隨眠并纏。世尊說為漏瀑流等。為¶
 唯爾所為更有餘。頌曰。¶
@@ -298,7 +293,7 @@
 豫樂說無宗。雖無能為而多高舉。不敬闕信¶
 樂闇多沈。不樂審觀伏眠難覺。多樂敬奉外¶
 道邪天。所作凶勃所作左僻。勝解劣多忘¶
-失。懶墮無策心昧𧄼瞢。破壞法橋常喜閉¶
+失。[悚*頁]墮無策心昧[夢-夕+登]瞢。破壞法橋常喜閉¶
 目。所作不了蹙面顰眉。不聰明不相委。不¶
 相信不別機。憎嫉賢良所為專執。於善惡說¶
 不鑒是非。戾若狻貌卒難開曉。不能了別怨¶

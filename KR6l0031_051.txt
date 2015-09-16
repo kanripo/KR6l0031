@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.611756
+#+DATE: 2015-08-30 20:51:37.979297
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_051-0625b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 51
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第五十一¶
+《阿毘達磨順正理論》卷第五十一¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-7七
-:PROPERTIES:
-:head: 辯隨眠品第五之七
-:END:
-¶
+辯隨眠品第五之七¶
 
 如是略述三世有無理趣正邪有差別已。為¶
 令此義決定增明復依頌文廣顯宗趣。頌曰。¶
@@ -478,7 +473,7 @@
 無常。有生滅法非於無法。佛說無常然諸去¶
 來體雖實有。而可說是有生滅法。如是理趣¶
 我後當辯。且非無體亦可得說有無常相其¶
-理極成。是故應知去來實有。又布剌拏契經¶
+理極成。是故應知去來實有。又布刺拏契經¶
 說故。知去來世決定實有。謂彼經說此滿苾¶
 芻。眼見色已能了知色。了知色貪彼於有。¶
 內眼所識色貪能如實了知。我有內眼所¶

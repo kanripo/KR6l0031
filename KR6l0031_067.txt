@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:19.130980
+#+DATE: 2015-08-30 20:51:38.502318
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_067-0706a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 67
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第六十七¶
+《阿毘達磨順正理論》卷第六十七¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-11十一
-:PROPERTIES:
-:head: 辯聖賢品第六之十一
-:END:
-¶
+辯聖賢品第六之十一¶
 
 如說沙門及沙門果。何謂沙門性。此果體是¶
 何。果位差別總有幾種。頌曰。¶
@@ -442,7 +437,7 @@
 欲極多厭惡。由斯厭惡起自害思。或此類根¶
 雖性昧鈍。而多緣力之所集成。於加行中念¶
 力堅固。多住厭觀少有欣情。恒作是思勿遇¶
-病等。便於正念有所忘失。於加行中致有慢¶
+病等。便於正念有所忘夫。於加行中致有慢¶
 緩。由加行慢緩令我有退失。由斯籌慮起自¶
 害思。或由艱辛方逮勝位。觀諸財寶追求貯¶
 積。守護受用咽棄等時。無不引生種種苦惱。¶

@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.840302
+#+DATE: 2015-08-30 20:51:38.211781
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_058-0663a> 
 #+PROPERTY: JUAN 58
 ¶
-
- 《阿毘達磨順正理論》卷第五十八¶
+《阿毘達磨順正理論》卷第五十八¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-2二
-:PROPERTIES:
-:head: 辯賢聖品第六之二
-:END:
-¶
+辯賢聖品第六之二¶
 
 此中餘部有作是言定無實樂受唯是苦。云¶
 何知然由理教故。由何等理後苦增故。謂於¶
@@ -344,7 +339,7 @@
 漸分析乃至極微。或一剎那令捨苦覺。以析¶
 乃至極微剎那。一一恒與苦相合故。云何可¶
 謂如瓶水等。於所依物未破析時。假施設有¶
-名世俗諦。又如觸法界。苦諦亦應然。謂彼自¶
+名世俗諦。又如觸法界。苦諦亦應然。謂彼目¶
 言蘊唯世俗。所依實物方是勝義。處亦如是。¶
 界唯勝義豈不觸法界亦依多立一。理應如¶
 蘊是世俗有所依實物方是勝義。則應許界¶

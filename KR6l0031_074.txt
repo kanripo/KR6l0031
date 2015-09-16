@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:19.354127
+#+DATE: 2015-08-30 20:51:38.909813
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_074-0740c> ¶¶¶¶
 #+PROPERTY: JUAN 74
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第七十四¶
+《阿毘達磨順正理論》卷第七十四¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-2二
-:PROPERTIES:
-:head: 辯智品第七之二
-:END:
-¶
+辯智品第七之二¶
 
 所言行相有十六者。為但名別實亦有異。何¶
 謂行相能行所行。頌曰。¶

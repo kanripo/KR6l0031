@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:19.259784
+#+DATE: 2015-08-30 20:51:38.826723
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_071-0725c> 
 #+PROPERTY: JUAN 71
 ¶
-
- 《阿毘達磨順正理論》卷第七十一¶
+《阿毘達磨順正理論》卷第七十一¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-15十五
-:PROPERTIES:
-:head: 辯賢聖品第六之十五
-:END:
-¶
+辯賢聖品第六之十五¶
 
 廣說諸道差別無量。謂世出世見修道等。今¶
 應思擇於諸道中。略說有幾可能遍攝。頌曰。¶
@@ -360,7 +355,7 @@
 立覺分。有餘師說。心導世間於界趣生輪迴¶
 無絕。修習覺分為斷生死。由此心王不立覺¶
 分。有餘師說。無始時來心為眾多。煩惱雜染¶
-馳散諸境。𢤱悷難調為調伏心修習覺分。非¶
+馳散諸境。[怡-台+龍]悷難調為調伏心修習覺分。非¶
 所調伏即是能調。是故心王不立覺分。何緣¶
 諸大心所法中。唯立四法為菩提分。實總攝¶
 在念住等中。彼實攝諸加行善故。然別建立¶

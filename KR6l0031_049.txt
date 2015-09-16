@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.555562
+#+DATE: 2015-08-30 20:51:37.926230
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_049-0616a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 49
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第四十九¶
+《阿毘達磨順正理論》卷第四十九¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-5五
-:PROPERTIES:
-:head: 辯隨眠品第五之五
-:END:
-¶
+辯隨眠品第五之五¶
 
 為顯上義復應思擇九十八隨眠中。幾由所¶
 緣故隨增。幾由相應故隨增。頌曰。¶
@@ -62,7 +57,7 @@
 未斷故。初頌首摽未斷言。由此應知諸緣無¶
 漏。他界他煩惱唯相應隨增。諸緣有漏自界¶
 地遍具有所緣相應隨增。如何隨眠於相應¶
-法。及所緣境有隨增義。先軌𥰳師作如是¶
+法。及所緣境有隨增義。先軌[簐-欠+丸]師作如是¶
 說。如城邑側有雜穢聚。糞水土等所共合成。¶
 於此聚中由糞過失。令水土等亦成不淨。由
 <pb:KR6l0031_T_049-0616c>¶

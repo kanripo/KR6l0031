@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:17.795431
+#+DATE: 2015-08-30 20:51:37.033846
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_026-0485c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第二十六¶
+《阿毘達磨順正理論》卷第二十六¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-6六
-:PROPERTIES:
-:head: 辯緣起品第三之六
-:END:
-¶
+辯緣起品第三之六¶
 
 結生識後。六處生前。中間諸位。總稱名色。豈¶
 不已生身意二處。應言此在四處生前。大德¶

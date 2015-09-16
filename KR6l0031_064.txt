@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:19.033396
+#+DATE: 2015-08-30 20:51:38.403605
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_064-0692a> 
 #+PROPERTY: JUAN 64
 ¶
-
- 《阿毘達磨順正理論》卷第六十四¶
+《阿毘達磨順正理論》卷第六十四¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-8八
-:PROPERTIES:
-:head: 辯賢聖品第六之八
-:END:
-¶
+辯賢聖品第六之八¶
 
 已辯見修二道生異。當依此道分位差別。建¶
 立眾聖補特伽羅。且依見道十五心位。建立¶

@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:17.767267
+#+DATE: 2015-08-30 20:51:37.005401
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_025-0480c> 
 #+PROPERTY: JUAN 25
 ¶
-
- 《阿毘達磨順正理論》卷第二十五¶
+《阿毘達磨順正理論》卷第二十五¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-5五
-:PROPERTIES:
-:head: 辯緣起品第三之五
-:END:
-¶
+辯緣起品第三之五¶
 
 已說內外羯剌藍等種等道理。因果相續。應¶
 知此即說名緣起。如是緣起。非唯十二。云何¶

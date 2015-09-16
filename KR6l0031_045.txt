@@ -1,27 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.419593
+#+DATE: 2015-08-30 20:51:37.803679
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_045-0596a> ¶¶¶¶¶
 #+PROPERTY: JUAN 45
 ¶
-
- 《阿毘達磨順正理論》卷第四十五¶
+《阿毘達磨順正理論》卷第四十五¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-5辯隨眠品
-1一
-:PROPERTIES:
-:head: 辯隨眠品第五之一
-:END:
-¶
+辯隨眠品第五之一¶
 
 廣辯諸業并決擇已。諸契經中說感有處。皆¶
 言諸業能為引因。然見世間有離染者。雖亦¶
@@ -67,7 +61,7 @@
 斷。此由清淨相續故斷。此與彼相應此與彼¶
 不相應。此斷已可退此斷已不可退。此有非¶
 愛異熟此全無異熟。此是彼等無間此是彼¶
-所緣。此因所緣斷此因所緣不斷。此體雖已¶
+所緣。此因所緣斷此因所緣下斷。此體雖已¶
 斷而所緣故縛。此於定地無容得有。此非世¶
 間治道所滅。此唯意識身此通六識身。此能¶
 等起身語二業。此能斷善根此能續善根。此¶

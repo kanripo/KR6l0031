@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:19.157226
+#+DATE: 2015-08-30 20:51:38.528979
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_068-0711a> 
 #+PROPERTY: JUAN 68
 ¶
-
- 《阿毘達磨順正理論》卷第六十八¶
+《阿毘達磨順正理論》卷第六十八¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-12十二
-:PROPERTIES:
-:head: 辯賢聖品第六之十二
-:END:
-¶
+辯賢聖品第六之十二¶
 
 如是六種阿羅漢中。唯前五種容有退義。誰¶
 從何退為性為果。頌曰。¶

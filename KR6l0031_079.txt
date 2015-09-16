@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:19.545206
+#+DATE: 2015-08-30 20:51:39.070176
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@DE
 #+PROPERTY: LASTPB <pb:KR6l0031_T_079-0766a> ¶¶¶
 #+PROPERTY: JUAN 79
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第七十九¶
+《阿毘達磨順正理論》卷第七十九¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-3三
-:PROPERTIES:
-:head: 辯定品第八之三
-:END:
-¶
+辯定品第八之三¶
 
 已辯等至云何等持。經說等持總有三種。一¶
 有尋有伺三摩地。二無尋唯伺三摩地。三無¶
@@ -527,6 +522,6 @@
 於慈等能速修成。非於有情樂求過者。以斷¶
 善者有德可錄。麟喻獨覺有失可取。先福罪¶
 果現可見故。¶
-《說一切有部順正理論》卷第七十九
+《說一切有部順正理論》第卷七十九
 <pb:KR6l0031_T_079-0771b>¶
 
