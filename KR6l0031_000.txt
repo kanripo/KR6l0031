@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿毘達磨順正理論
+#+DATE: 2015-08-30 20:51:20.547752
+#+PROPERTY: JUAN 0
