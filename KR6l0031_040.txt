@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.244139
+#+DATE: 2015-08-30 20:51:45.646090
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0031_T_040-0567c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 40
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第四十¶
+《阿毘達磨順正理論》卷第四十¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-8八
-:PROPERTIES:
-:head: 辨業品第四之八
-:END:
-¶
+辨業品第四之八¶
 
 因辨諸業性相不同。當釋經中所摽諸業。且¶
 經中說業有三種。善惡無記其相云何。頌曰。
@@ -217,7 +212,7 @@
 受。而或轉於地獄受者。非此中辨順現受業。¶
 意說有業順不定受。若能精修身戒心慧。此¶
 所造業應人間受。由不精修身戒心慧。便乘¶
-此業墮㮈落迦。契經又言或有諸業應地獄¶
+此業墮[木*奈]落迦。契經又言或有諸業應地獄¶
 受。而或轉於人中受者。此亦非辨時分定業¶
 但說不定釋義准前。或釋前經意說有業。雖¶
 是造作而非增長。若任其力應現法受。若後¶

@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.868078
+#+DATE: 2015-08-30 20:51:46.200320
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0031_T_059-0668a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 59
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第五十九¶
+《阿毘達磨順正理論》卷第五十九¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-3三
-:PROPERTIES:
-:head: 辯賢聖品第六之三
-:END:
-¶
+辯賢聖品第六之三¶
 
 今應思擇。於聖諦中求真見者初修何行。求¶
 見聖諦初業地中。所習行儀極為繁廣。欲遍
@@ -154,7 +149,7 @@
 
 論曰。身器清淨略由三因。何等謂三因。一¶
 身心遠離。二喜足少欲。三住四聖種。謂若欲¶
-令修速成者。要先精勤清淨身器。欲令身器¶
+令修速成者。要先精勤精淨身器。欲令身器¶
 得清淨者。要先修習身心遠離。身遠離者。謂¶
 遠惡朋心遠離者。謂離惡尋由身心離惡朋¶
 尋故。身器清淨心易得定。此二由何易可成¶

@@ -1,28 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:17.233472
+#+DATE: 2015-08-30 20:51:44.649379
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0031_T_009-0377a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第九¶
+《阿毘達磨順正理論》卷第九¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-2辯差別品
-1一
-:PROPERTIES:
-:head: 辯差別品第二之一
-:END:
-¶
+辯差別品第二之一¶
 
 如是因界已列諸根今於此中應更思擇。世
 <pb:KR6l0031_T_009-0377b>¶
@@ -364,7 +358,7 @@
 即是未知當知根體。未知當知行相轉故。若¶
 在修道。意等九法。即是第二。已知根體。為¶
 欲斷除餘隨眠故。於已知境。數復了知。在無¶
-學道。意等九法。即是第三。具知根體。知己已¶
+學道。意等九法。即是第三。具知根體。知已已¶
 知。故名為知。習知成性故。或能護知故。名為¶
 具知。九根相應。合成此事。故意等八。亦得此¶
 名。如是根名。雖二十二。而諸根體。但有十¶

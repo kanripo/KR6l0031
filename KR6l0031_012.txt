@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:17.342009
+#+DATE: 2015-08-30 20:51:44.764854
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0031_T_012-0396c> 
 #+PROPERTY: JUAN 12
 ¶
-
- 《阿毘達磨順正理論》卷第十二¶
+《阿毘達磨順正理論》卷第十二¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-4四
-:PROPERTIES:
-:head: 辯差別品第二之四
-:END:
-¶
+辯差別品第二之四¶
 
 無色法中。已辯心心所。今次當辯心不相應¶
 行。頌曰。¶
