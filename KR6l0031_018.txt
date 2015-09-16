@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:17.530293
+#+DATE: 2015-08-30 20:51:48.811426
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_018-0435c> 
 #+PROPERTY: JUAN 18
 ¶
-
- 《阿毘達磨順正理論》卷第十八¶
+《阿毘達磨順正理論》卷第十八¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-10十
-:PROPERTIES:
-:head: 辯差別品第二之十
-:END:
-¶
+辯差別品第二之十¶
 
 因離繫果。傍論已周。本所明今當說。於當所¶
 辯異熟等流離繫士用及增上果。如是五果。¶

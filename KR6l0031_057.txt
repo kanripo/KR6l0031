@@ -1,27 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.810584
+#+DATE: 2015-08-30 20:51:50.068868
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_057-0657c> 
 #+PROPERTY: JUAN 57
 ¶
-
- 《阿毘達磨順正理論》卷第五十七¶
+《阿毘達磨順正理論》卷第五十七¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-6辯賢聖品
-1一
-:PROPERTIES:
-:head: 辯賢聖品第六之一
-:END:
-¶
+辯賢聖品第六之一¶
 
 如是已辯隨眠等性。雖有無量。總建立為三¶
 界五部隨眠等斷。隨所繫事雖亦無量。就勝¶
@@ -380,7 +374,7 @@
 次尋其因。次思病愈後求良藥。故契經言夫¶
 醫王者。謂具四德能拔毒箭。一善知病狀。二¶
 善知病因。三善知病愈。四善知良藥。如來¶
-亦爾為大醫王。如實了知苦集滅道。故加行¶
+亦爾為大醫王。如實了如苦集滅道。故加行¶
 位依此次觀。現觀位中觀次亦爾。由加行力¶
 所引發故。如縱心誦先所誦文。故列聖諦名¶
 隨現觀次第。現等覺故立現觀名。正覺所緣¶

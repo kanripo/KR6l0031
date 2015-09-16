@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:19.287643
+#+DATE: 2015-08-30 20:51:50.648049
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_072-0730b> ¶¶¶
 #+PROPERTY: JUAN 72
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第七十二¶
+《阿毘達磨順正理論》卷第七十二¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-16十六
-:PROPERTIES:
-:head: 辯賢聖品第六之十六
-:END:
-¶
+辯賢聖品第六之十六¶
 
 修覺分時必獲證淨。此有幾種依何位得。實¶
 體是何法有漏無漏耶。頌曰。¶

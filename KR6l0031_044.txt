@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.378397
+#+DATE: 2015-08-30 20:51:49.684476
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_044-0590b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 44
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第四十四¶
+《阿毘達磨順正理論》卷第四十四¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-12十二
-:PROPERTIES:
-:head: 辯業品第四之十二
-:END:
-¶
+辯業品第四之十二¶
 
 如上所言住定菩薩為從何位。得住定名。彼¶
 復於何說名為定。頌曰。¶
@@ -42,7 +37,7 @@
 <pb:KR6l0031_T_044-0590c>¶
 長者。大婆羅門家。於貴家中根有具缺。然彼¶
 菩薩恒具勝根。恒受男身尚不為女。何況有¶
-受扇𢮎等身。生生常能憶念宿命。所作善事¶
+受扇[打-丁+虎]等身。生生常能憶念宿命。所作善事¶
 常無退屈。謂於利樂一切有情。一切時中一¶
 切方便。心無厭倦名無退屈。由無退屈故說¶
 為堅豈不未修妙相業位菩提心不退應立住¶

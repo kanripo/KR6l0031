@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.460304
+#+DATE: 2015-08-30 20:51:49.745991
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_046-0601a> ¶
 #+PROPERTY: JUAN 46
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第四十六¶
+《阿毘達磨順正理論》卷第四十六¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-2二
-:PROPERTIES:
-:head: 辯隨眠品第五之二
-:END:
-¶
+辯隨眠品第五之二¶
 
 如前所說六種隨眠。復約異門建立為十。如¶
 何成十。頌曰。¶

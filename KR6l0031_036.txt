@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.133343
+#+DATE: 2015-08-30 20:51:49.405819
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_036-0545b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 36
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第三十六¶
+《阿毘達磨順正理論》卷第三十六¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-4四
-:PROPERTIES:
-:head: 辯業品第四之四
-:END:
-¶
+辯業品第四之四¶
 
 已辯業門略有二種。謂思思已業差別故。復¶
 有三種。謂身語意業差別故。復有五種。謂身¶

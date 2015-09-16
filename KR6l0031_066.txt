@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:19.100731
+#+DATE: 2015-08-30 20:51:50.474478
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_066-0701b> ¶
 #+PROPERTY: JUAN 66
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第六十六¶
+《阿毘達磨順正理論》卷第六十六¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-10十
-:PROPERTIES:
-:head: 辯賢聖品第六之十
-:END:
-¶
+辯賢聖品第六之十¶
 
 如上所言修道有二。一者有漏。二者無漏。今¶
 應思擇於此二種由何等道離何地染。頌曰。¶
@@ -164,7 +159,7 @@
 六聖行八解脫道。靜等三行隨一現前。各未¶
 來修二十二行。謂前十九加靜等三。後解脫¶
 道現在未來所修如前。八解脫道與前別者。¶
-復修未來初靜慮攝無邊行相。離初定染九¶
+復修未來初靜慮攝無邊行相。難初定染九¶
 無間道。麁等三行隨一現前。各於未來修十¶
 九行。謂麁等三及唯無漏十六聖行。此十六
 <pb:KR6l0031_T_066-0702c>¶

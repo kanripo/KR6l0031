@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:17.888017
+#+DATE: 2015-08-30 20:51:49.179618
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_029-0502c> ¶¶¶¶
 #+PROPERTY: JUAN 29
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第二十九¶
+《阿毘達磨順正理論》卷第二十九¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-9九
-:PROPERTIES:
-:head: 辯緣起品第三之九
-:END:
-¶
+辯緣起品第三之九¶
 
 已辯無明。當辯名色。色已辯名云何。頌曰名¶
 無色四蘊。¶
@@ -607,7 +602,7 @@
 <pb:KR6l0031_T_029-0508c>¶
 生諸靜慮。亦兼下地捨法近行。又即喜等十¶
 八意行。由為耽嗜出離依別。故世尊說。為三¶
-十六師句。此差別句。能表大師是師摽𢡠。¶
+十六師句。此差別句。能表大師是師摽𢡠[愔*戈]。¶
 故名師句。如是諸句。唯佛大師。能知能說。餘¶
 無能故。有說此受應名師迹。由是諸邪師行¶
 所依地故。有說此受應名刀路。或名怨路。由¶

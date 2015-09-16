@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:19.511990
+#+DATE: 2015-08-30 20:51:50.840351
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_078-0761a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 78
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第七十八¶
+《阿毘達磨順正理論》卷第七十八¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-2二
-:PROPERTIES:
-:head: 辯定品第八之二
-:END:
-¶
+辯定品第八之二¶
 
 我宗定說。初二靜慮樂根為支。違何正理。汝¶
 執身受方有樂根。非諸定中可起身識。豈不¶

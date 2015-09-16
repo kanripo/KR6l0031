@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.752857
+#+DATE: 2015-08-30 20:51:50.014287
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_055-0647b> 
 #+PROPERTY: JUAN 55
 ¶
-
- 《阿毘達磨順正理論》卷第五十五¶
+《阿毘達磨順正理論》卷第五十五¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-11十一
-:PROPERTIES:
-:head: 辯隨眠品第五之十一
-:END:
-¶
+辯隨眠品第五之十一¶
 
 所辯隨眠及隨煩惱。於中有幾唯依意地。¶
 有幾通依六識地起。頌曰。¶
@@ -184,7 +179,7 @@
 謂慈善根。疑蓋食謂三世。如契經說於過去¶
 世生如是疑。乃至廣說此蓋對治。謂若有能¶
 如實觀察。緣性緣起惛眠蓋食。謂五種法一¶
-𧄼瞢。二不悅。三頻申。四食不平性。五心昧劣¶
+[夢-夕+登]瞢。二不悅。三頻申。四食不平性。五心昧劣¶
 性。此蓋對治謂光明想。此蓋事用謂俱能令¶
 心性沈昧。掉悔蓋食謂四種法。一親里尋二¶
 國土尋。三不死尋。四隨念昔種種所更。戲笑¶

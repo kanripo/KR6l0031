@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.496267
+#+DATE: 2015-08-30 20:51:49.774889
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_047-0605c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 47
 ¶
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第四十七¶
+《阿毘達磨順正理論》卷第四十七¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-3三
-:PROPERTIES:
-:head: 辯隨眠品第五之三
-:END:
-¶
+辯隨眠品第五之三¶
 
 如前所辯六隨眠中。由行有殊見分為五。名¶
 先已列。自體如何。頌曰。¶

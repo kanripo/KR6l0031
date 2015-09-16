@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:17.435826
+#+DATE: 2015-08-30 20:51:48.708162
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_015-0416b> 
 #+PROPERTY: JUAN 15
 ¶
-
- 《阿毘達磨順正理論》卷第十五¶
+《阿毘達磨順正理論》卷第十五¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-7七
-:PROPERTIES:
-:head: 辯差別品第二之七
-:END:
-¶
+辯差別品第二之七¶
 
 如是已辯不相應行前言生相生所生時。非¶
 離所餘因緣和合。此中何法。說為因緣。且因¶
@@ -35,7 +30,7 @@
 」¶
 
 論曰。本論許因唯有六種。不增不減。一能¶
-作因。二俱有因。三同類因。四相應因。五遍行¶
+作因。二俱有因。三同類困。四相應因。五遍行¶
 因。六異熟因。能作因體。通一切法。是故先¶
 說。俱有因體。遍諸有為。故居第二。餘同類¶
 等。於有為中。如其所應。各攝少分。隨言穩¶

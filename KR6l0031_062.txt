@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.973082
+#+DATE: 2015-08-30 20:51:50.231099
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0031_T_062-0683a> 
 #+PROPERTY: JUAN 62
 ¶
-
- 《阿毘達磨順正理論》卷第六十二¶
+《阿毘達磨順正理論》卷第六十二¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-6六
-:PROPERTIES:
-:head: 辯賢聖品第六之六
-:END:
-¶
+辯賢聖品第六之六¶
 
 已因便說順解脫分。入觀次第是正所論。於¶
 中已明諸加行道。世第一法為其後邊。應說¶
@@ -148,7 +143,7 @@
 引生。正性決定引起聖道。光明相故此忍現
 <pb:KR6l0031_T_062-0684b>¶
 前。如後聖道於四諦境。忍可欲樂簡擇觀察。¶
-推度分明如隔輕𦀛。光中觀像此位名入正¶
+推度分明如隔輕[糸*沙]。光中觀像此位名入正¶
 性決定。後於四諦以妙決擇。無動智見名¶
 為預流。佛說涅槃名為正性。此能定趣得決¶
 定名。故前名入正性決定。即能入位名諦順¶
