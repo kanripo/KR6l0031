@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.070761
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:29
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0031_T_034-0534b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 34
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第三十四¶
+《阿毘達磨順正理論》卷第三十四¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-2二
-:PROPERTIES:
-:head: 辯業品第四之二
-:END:
-¶
+** 辯業品第四之二¶
 
 於正法內。有作是言。身及山等。久住不滅。¶
 故契經說。或有一類。身住十年。乃至廣說。又¶
@@ -372,9 +367,9 @@
 「　由內心麁惡
 　外動身發語¶
 　因此能感苦
-　翻此便招樂
+　翻此便招樂」
 #+END_VERSE
-」¶
+¶
 
 此中說思及身語表。能感愛果。非愛果義。餘¶
 經又言。諸邪見者。所有身業語業意業。一切¶

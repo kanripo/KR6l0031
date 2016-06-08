@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.583161
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:29
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0031_T_050-0620c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 50
 ¶
 ¶
-
- 《阿毘達磨順正理論》卷第五十¶
+《阿毘達磨順正理論》卷第五十¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-6六
-:PROPERTIES:
-:head: 辯隨眠品第五之六
-:END:
-¶
+** 辯隨眠品第五之六¶
 
 因辯隨眠不善無記傍論已了。今應思擇何¶
 等隨眠於何事繫。何名為事。事雖非一而於
@@ -48,9 +43,9 @@
 　五可生自世
 　不生亦遍行¶
 　餘過未遍行
-　現正緣能繫
+　現正緣能繫」
 #+END_VERSE
-」¶
+¶
 
 論曰。若有情類於此事中隨眠隨增名繫此¶
 事。夫為能繫必是未斷。故初未斷如應遍流。¶

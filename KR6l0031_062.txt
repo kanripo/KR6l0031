@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.973082
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:29
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0031_T_062-0683a> 
 #+PROPERTY: JUAN 62
 ¶
-
- 《阿毘達磨順正理論》卷第六十二¶
+《阿毘達磨順正理論》卷第六十二¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-6六
-:PROPERTIES:
-:head: 辯賢聖品第六之六
-:END:
-¶
+** 辯賢聖品第六之六¶
 
 已因便說順解脫分。入觀次第是正所論。於¶
 中已明諸加行道。世第一法為其後邊。應說¶
@@ -38,9 +33,9 @@
 　如是十六心
 　名聖諦現觀¶
 　此總有三種
-　謂見緣事別
+　謂見緣事別」
 #+END_VERSE
-」¶
+¶
 
 論曰。從世第一善根無間。即緣欲界苦聖諦¶
 境有無漏攝法智忍生。此忍名為苦法智忍。¶

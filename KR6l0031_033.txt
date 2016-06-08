@@ -1,27 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:18.036735
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:29
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1562
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0031_T_033-0529a> 
 #+PROPERTY: JUAN 33
 ¶
-
- 《阿毘達磨順正理論》卷第三十三¶
+《阿毘達磨順正理論》卷第三十三¶
 ¶
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-4辯業品
-1一
-:PROPERTIES:
-:head: 辯業品第四之一
-:END:
-¶
+** 辯業品第四之一¶
 
 此中一類。隨順造惡怯難論者。作如是言。如¶
 上所陳。諸內外事。多種差別。非業為因。現見¶
@@ -37,9 +31,9 @@
 「　世別由業生
 　思及思所作¶
 　思即是意業
-　所作謂身語
+　所作謂身語」
 #+END_VERSE
-」¶
+¶
 
 論曰。定由有情淨不淨業。諸內外事種種不¶
 同。云何知然。見業用故。謂世現見。愛非愛¶
@@ -264,9 +258,9 @@
 
 #+BEGIN_VERSE
 「　此身語二業
-　俱表無表性
+　俱表無表性」
 #+END_VERSE
-」¶
+¶
 
 論曰。應知如是所說諸業中。身語二業。俱表
 <pb:KR6l0031_T_033-0531c>¶
@@ -308,9 +302,9 @@
 　形亦非實有
 　應二根取故¶
 　無別極微故
-　語表許言聲
+　語表許言聲」
 #+END_VERSE
-」¶
+¶
 
 論曰。髮毛等聚。總名為身。於此身中。有心¶
 所起。四大種果。形色差別。能表示心。名為身¶
