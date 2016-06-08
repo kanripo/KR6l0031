@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:17.499716
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:29
 #+TITLE: 阿毘達磨順正理論
 #+PROPERTY: CBETA_ID T29n1562
 #+PROPERTY: ID KR6l0031
@@ -16,7 +16,7 @@
 尊者眾賢造¶
 三藏法師玄奘奉　詔譯¶
 
-9九
+** 9九
 :PROPERTIES:
 :head: 辯差別品第二之九
 :END:
@@ -27,9 +27,9 @@
 
 #+BEGIN_VERSE
 「　果有為離繫
-　無為無因果
+　無為無因果」
 #+END_VERSE
-」¶
+¶
 
 論曰。果有五種。後當廣說。今且略標有為離¶
 繫。如本論說。果法云何。謂諸有為。及與擇¶
